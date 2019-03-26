@@ -19,6 +19,7 @@
         <jdbc_password/>
         <jdbc_server/>
         <jdbc_user_name/>
+        <jdbcprobe_result_set_rows/>
         <jpath_root_node/>
         <last_run_database_field/>
         <last_run_datetime/>
